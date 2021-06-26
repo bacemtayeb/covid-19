@@ -5,4 +5,4 @@ Pillow
 keras
 joblib
 gunicorn
-tensorflow
+tensorflow-cpu
