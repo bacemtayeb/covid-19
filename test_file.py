@@ -32,7 +32,7 @@ st.sidebar.info(
 
 #Load model
 to_res = (224, 224)
-loaded_model = load_model('model.h5')
+loaded_model = load_model('my.h5')
 
 # Designing the interface
 st.title("COVID-19 CT scans Classification App")
