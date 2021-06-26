@@ -39,8 +39,7 @@ st.title("COVID-19 CT scans Classification App")
 # For newline
 st.write('\n')
 
-image = Image.open('normal_1.png')
-show = st.image(image, use_column_width=True)
+
 
 st.sidebar.title("Upload Image")
 
