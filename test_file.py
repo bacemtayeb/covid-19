@@ -7,7 +7,7 @@ from os import listdir
 from os.path import isfile, join
 from PIL import Image
 from keras.models import load_model
-from tf.keras.preprocessing import image
+from keras.preprocessing import image
 #importing the libraries
 import joblib
 #from skimage.transform import resize
