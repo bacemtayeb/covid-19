@@ -1,8 +1,0 @@
-streamlit
-pandas
-numpy
-Pillow
-keras
-joblib
-gunicorn
-tensorflow-cpu
