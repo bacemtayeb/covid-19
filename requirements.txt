@@ -1,6 +1,6 @@
 streamlit
 pandas
 numpy
-PIL
+Pillow
 keras
 joblib
